@@ -1,0 +1,1 @@
+# python-django-box-selection-system
